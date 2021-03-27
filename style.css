@@ -1,7 +1,7 @@
 body {
 	font-family: "Times New Roman", serif;
 	color: black;
-	background-image: url(img/space.jpg);
+	background-image: url(img/space.jpeg);
 }
 
 h1 {
@@ -9,10 +9,12 @@ h1 {
 }
 
 table {
-	borer-collapse: collapse;
+	border-collapse: collapse;
 	text-align: center;
 	width: 100%;
-	border: 1px solid black;
+	border: 2px solid black;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 tr, td {
