@@ -1,0 +1,20 @@
+body {
+	font-family: "Times New Roman", serif;
+	color: black;
+	background-image: img(space.jpg);
+}
+
+tr, td{
+	margin: auto;
+	height: 50px;
+	text-align: center;
+	padding: 15px;
+}
+
+th {
+	font-style: bold;
+	background-color: blue;
+	color: white;
+	padding: 10px;
+	border-spacing: 1px;
+}
